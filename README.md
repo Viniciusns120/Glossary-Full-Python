@@ -121,5 +121,3 @@ Feel free to submit pull requests if you find any issues or have suggestions for
 This project is open-source and available under the MIT License.
 
 ---
-
-I hope this helps! Let me know if you need any more adjustments or additional information. 😊
